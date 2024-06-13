@@ -1,25 +1,25 @@
 # Olá, sou o Daniel Damaceno!
 
-- 🔭 I’m currently working with Development Power Platform and Dynamics 365
-- 🌱 I’m currently learning C#
-- 😄 Pronouns: He/Him
+- 🔭 Trabalho atualmente com desenvolvimento Dynamics 365 e Power Platform
+- 🌱 Estou estudando C#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandamaceno&show_icons=true&theme=transparent)
 
 ## Tecnologias e Ferramentas
-- Linguagens: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- Frameworks: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-- Ferramentas: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## Projetos em Destaque
-- [Projeto 1](link do projeto): Breve descrição do projeto.
-- [Projeto 2](link do projeto): Breve descrição do projeto.
-- [Projeto 3](link do projeto): Breve descrição do projeto.
-
-## Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/daniel-damaceno/)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ## Contato
-Você pode me contatar pelo email: [danielpbjhotmail.com](mailto:danielpbj@hotmail.com)
+<div> 
+  <a href="mailto:danielpbj@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-damaceno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
----
+##
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dandamaceno&color=blue)
