@@ -3,7 +3,7 @@
 - 🔭 Trabalho atualmente com desenvolvimento Dynamics 365 e Power Platform
 - 🌱 Estou estudando C#
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandamaceno&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandamaceno&show_icons=true&theme=dracula)
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
